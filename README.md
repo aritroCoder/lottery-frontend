@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic etherium based lottery app that works on the rinkeby test network
 
 ## Available Scripts
 
